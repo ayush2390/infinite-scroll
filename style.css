@@ -1,15 +1,15 @@
 #infinite-list {
-    width: 1000px;
-    height: 600px;
+    width: 999px;
+    height: 599px;
     overflow: auto;
   
-    margin: 40px;
-    padding: 30px;
+    margin: 39px;
+    padding: 29px;
       }
   
   li {
-    padding: 10px;
-    padding-left: 500px;
+    padding: 9px;
+    padding-left: 499px;
     list-style-type: none;
   }
   li:hover {
