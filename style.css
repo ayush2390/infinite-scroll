@@ -1,6 +1,6 @@
 #infinite-list {
-    width: 1000px;
-    height: 600px;
+    width: 900px;
+    height: 500px;
     overflow: auto;
   
     margin: 50px;
@@ -8,8 +8,8 @@
       }
   
   li {
-    padding: 9px;
-    padding-left: 499px;
+    padding: 8.9px;
+    padding-left: 498px;
     list-style-type: none;
   }
   li:hover {
